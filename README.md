@@ -26,8 +26,7 @@ This project predicts corporate bankruptcy (`Bankrupt?`) using financial ratios.
 
 ### Exploratory Analysis
 
-![Spearman correlation heatmap](<img width="2147" height="1960" alt="image" src="https://github.com/user-attachments/assets/58a0d1ab-c0b4-459a-82c8-d5765eb3a9f6" />
-)
+![Spearman correlation heatmap](outputs/notebook-figure-2.png)
 
 ![Feature correlation coefficients](assets/notebook-figure-3.png)
 
