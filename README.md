@@ -1,4 +1,4 @@
-# Unsupervised ML model prediction
+# Supervised ML model prediction
 
 ## Overview
 This project develops a supervised learning framework for early detection of corporate financial distress under extreme class imbalance.
