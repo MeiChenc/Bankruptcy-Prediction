@@ -28,15 +28,15 @@ This project predicts corporate bankruptcy (`Bankrupt?`) using financial ratios.
 
 ![Spearman correlation heatmap](outputs/notebook-figure-2.png)
 
-![Feature correlation coefficients](assets/notebook-figure-3.png)
+![Feature correlation coefficients](outputs/notebook-figure-3.png)
 
 ### Model Evaluation
 
-![ROC curve comparison](assets/notebook-figure-10.png)
+![ROC curve comparison](outputs/notebook-figure-10.png)
 
-![Confusion matrices](assets/notebook-figure-14.png)
+![Confusion matrices](outputs/notebook-figure-14.png)
 
-![F1 score comparison](assets/notebook-figure-11.png)
+![F1 score comparison](outputs/notebook-figure-11.png)
 
 ## Workflow Summary
 
